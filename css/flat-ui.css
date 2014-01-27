@@ -1881,8 +1881,8 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   font-weight: 700;
 }
 .navbar-nav .dropdown-toggle .caret {
-  border-top-color: #16a085;
-  border-bottom-color: #16a085;
+  border-top-color: #f5d313;
+  border-bottom-color: #f5d313;
   border-width: 8px 6px 0;
   margin-left: 12px;
 }
@@ -1896,8 +1896,8 @@ fieldset[disabled] .input-group-btn .btn-default.active {
 .navbar-nav > li > a:focus .caret,
 .navbar-nav .open > a:focus .caret,
 .navbar-nav .open > a:hover .caret {
-  border-top-color: #3498db;
-  border-bottom-color: #3498db;
+  border-top-color: #f5d313;
+  border-bottom-color: #f5d313;
 }
 .navbar-nav [class^="fui-"] {
   line-height: 20px;
